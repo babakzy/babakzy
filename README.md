@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm a generalist front-end developer interested and experienced in design and managment.I've
+been working on websites by designing and developing interfaces for various applications. I like to
+create interactive and modern web pages.
+
+
 
 <!--
 **babakzy/babakzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
