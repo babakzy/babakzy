@@ -1,5 +1,5 @@
 ## Hi 🙋‍♂️
-I'm a front-end developer interested and experienced in design and project/product managment.I've
+a front-end developer interested and experienced in design and project/product management. I've
 been working on websites by designing and developing interfaces for various applications.
 
 ### My Tech Stack 👨‍💻️
