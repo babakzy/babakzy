@@ -1,5 +1,5 @@
 ## Hi 🙋‍♂️
-A maker (front-end development || Design || Management ). I've
+A maker ( front-end development || Design || Management ). I've
 been working on websites and web apps by designing and developing interfaces for various applications.
 
 ### My Tech Stack 👨‍💻️
