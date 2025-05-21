@@ -1,6 +1,7 @@
 ## Hi 🙋‍♂️
-A maker ( front-end development || Design || Management ). I've
+A maker ( Software Engineer ). I've
 been working on websites and web apps by designing and developing interfaces for various applications.
+Nowadays, I am into building things with AI and AI automation. For more information, please visit my website. 
 
 ### My Tech Stack 👨‍💻️
 <img src="./assets/html.svg" width="30" height="30" alt="HTML" />&nbsp;&nbsp;<img src="./assets/css.svg" width="30" height="30" alt="CSS" />&nbsp;&nbsp;<img src="./assets/js.svg" width="30" height="30" alt="JavaScript" />&nbsp;&nbsp;<img src="./assets/Typescript_logo.svg" width="30" height="30" alt="TypeScript" />&nbsp;&nbsp;<img src="./assets/vue.svg" width="30" height="30" alt="Vue.js" />&nbsp;&nbsp;<img src="./assets/nuxt3.svg" width="30" height="30" alt="Nuxt.js" />&nbsp;&nbsp;<img src="./assets/tailwindcss.svg" width="30" height="30" alt="TailwindCSS" />&nbsp;&nbsp;<img src="./assets/bootstrap.svg" width="30" height="30" alt="BootStrap" />
